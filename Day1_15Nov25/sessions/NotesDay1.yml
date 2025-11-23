@@ -1,0 +1,7 @@
+Difference between undefined and Null :
+
+
+| Concept       | Meaning                | Who sets it?      | Teaching Example                         |
+| ------------- | ---------------------- | ----------------- | ---------------------------------------- |
+| **undefined** | Declared but no value  | JavaScript        | Bank has not filled account number yet   |
+| **null**      | Intentionally no value | Programmer / User | Middle name intentionally kept empty |
